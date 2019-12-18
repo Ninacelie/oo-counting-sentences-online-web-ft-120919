@@ -1,7 +1,7 @@
 class String
 
-  def sentence?
-    "sentence?".end_with? (".")
+  def sentence?(string)
+    "string".end_with? (".")
   end
 
   def question?
