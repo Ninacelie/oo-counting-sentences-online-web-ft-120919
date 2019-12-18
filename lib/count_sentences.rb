@@ -1,9 +1,7 @@
-require 'pry'
-
 class String
 
   def sentence?
-    
+    if "sentence?".end_with? (".")
   end
 
   def question?
